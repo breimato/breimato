@@ -1,28 +1,33 @@
 # Hey there! I’m Breixo (a.k.a. [Brei](https://breimato.es)) 👋
 
-**3+ years** of turning complex backend challenges into straightforward, **scalable** solutions — that’s me in a nutshell! 🚀
+**4.5+ years** of turning complex backend challenges into clean, **scalable** solutions — that’s me in a nutshell! 🚀  
+Currently specialized in **Java backend development**, while still leveraging experience with Python and PHP ecosystems.
 
 ---
 
 ### ⚙️ My Superpowers 🤖
+- ☕ **Java backend development (main focus)** — scalable, maintainable, architecture-driven systems  
 - 🤝 **API development & optimization**  
-- 🤖 **Automation** of complex internal processes  
+- ⚙️ **Automation** of complex internal processes  
+- 🧠 **Architecture & design thinking** (clean code, modular systems)  
 - 📊 **Interactive dashboard design** for data visualization  
-- 🔐 **Proactive server security management** (Windows/Linux)  
-- 🏆 **Deep experience with Django, Laravel, PHP**
+- 🔐 **Proactive server security management** (Windows/Linux)
 
 ---
 
 ### 💼 Proven Track Record 🏅
-- ⚡️ **Optimized** critical backend processes, drastically **reducing execution times**  
-- 🖥️ Built **intuitive dashboards** to streamline data-driven decisions  
-- 🔒 Enhanced system **security**, proactively managing vulnerabilities  
-- 🤓 Improved team collaboration through robust Git conventions and **automation**
+- ⚡️ **Optimized** critical backend processes, significantly reducing execution times  
+- 🧩 Built **modular, scalable systems** focused on long-term maintainability  
+- 🖥️ Developed **intuitive dashboards** to support data-driven decisions  
+- 🔒 Strengthened system **security**, proactively managing vulnerabilities  
+- 🤝 Improved team workflows through **clean code practices, Git conventions, and automation**
 
 ---
 
 ### ⚡️ Tech Stack 💡
-- 🐍 **Python | Django | PHP | Laravel**  
+- ☕ **Java (primary stack)**  
+- 🐍 **Python | Django**  
+- 🐘 **PHP | Laravel**  
 - 💻 **JavaScript | HTML | CSS | Tailwind | React**  
 - 🧪 **PyTest | Postman | Kibana**  
 - 💾 **MySQL | PostgreSQL | Git | Scrum**
@@ -30,38 +35,41 @@
 ---
 
 ### 🦄 Ideal Projects 🏗️
-- 🏃 Teams looking to **significantly optimize** backend performance  
-- ⚙️ Businesses that value **automated, error-free solutions**  
-- 🌐 Companies ready to **scale** their backend reliably and securely  
-- 📜 Projects involving **script creation**, **web scraping**, and **workflow automations**
+- 🏗️ Teams building or evolving **scalable Java backend systems**  
+- ⚙️ Businesses that value **clean architecture and maintainability**  
+- 🚀 Projects needing **performance optimization and reliability**  
+- 🌐 Systems that must **scale securely and sustainably**  
+- 📜 Projects involving **automation, scripting, or data processing**
 
 ---
 
 ### 💡 If you want to: 🌟
-- 🤖 **Automate** repetitive tasks to save time and minimize errors  
-- 🚀 **Boost** your backend performance significantly  
-- 🔌 Have **scalable and reliable APIs** from day one  
-- 💡 Get **clear and practical solutions** to complex technical challenges  
-- 🤝 Work with a **committed developer** focused on transparent communication and results  
+- ☕ Build a **robust and scalable Java backend**  
+- 🚀 **Boost** backend performance significantly  
+- ⚙️ **Automate** repetitive processes and reduce errors  
+- 🔌 Design **clean and reliable APIs**  
+- 🧠 Apply **solid architectural principles** to your system  
+- 🤝 Work with a developer focused on **clarity and long-term value**
 
 ---
 
 ### ✨ Partnering with me means you’ll: 🔥
-- ⏱ **Stop** wasting valuable time on manual, repetitive tasks  
-- 💥 **See** backend performance improvements your users will instantly notice  
-- 🔒 Enjoy **stable, secure, future-proof** backend solutions  
-- 📚 Receive **clear, maintainable code** that your team can easily build upon  
-- 🧠 **Eliminate** backend headaches and focus fully on your core business
+- 🧱 Get **well-structured, maintainable backend systems**  
+- ⚡️ See **performance improvements users will notice**  
+- 🔒 Enjoy **secure, stable, future-proof solutions**  
+- 📚 Receive **clean, understandable code** your team can build on  
+- 🧠 Reduce technical debt and **focus on your core business**
 
 ---
 
 ## 📌 Why Me? 🤷
-- 🏆 Proven ability to **deliver optimized** backend solutions  
-- 💙 **Passionate** about backend systems, scripting, automation, and performance  
-- 💬 Committed to **clear communication** and client satisfaction  
+- 🏆 Proven ability to **deliver optimized backend solutions**  
+- ☕ Strong specialization in **Java and backend architecture**  
+- 💙 Passionate about **clean code, performance, and system design**  
+- 💬 Committed to **clear communication and real results**
 
 ---
 
 ### 💬 Let’s Connect! 🔗
-I’m always looking for opportunities to **elevate your backend**, **automate tedious tasks**, and **deliver results** that truly matter.  
-**Ready to bring your project to life?** Let’s do it!  
+I’m always looking for opportunities to **build solid backends**, **optimize systems**, and **deliver meaningful results**.  
+**Ready to bring your project to life?** Let’s do it!
